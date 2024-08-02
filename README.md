@@ -24,7 +24,7 @@ I am pursuing my undergraduate engineering degree in Computing in Software Devel
 - Build a Computer Vision app using Azure Cognitive Services by Coursera
 - Design a Mobile App using Moqups from Coursera
 - First Prize in Hackathon by N-TUTOR
-- [](#)
+- [https://github.com/Keshav-2601/All_Certificates.git](#All Certificates)
 
 ## 🛠️ Projects
 
@@ -71,7 +71,6 @@ I am pursuing my undergraduate engineering degree in Computing in Software Devel
 - Phone: +353 0892380894
 
 ## 📊 GitHub Stats
-![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keshav-2601&show_icons=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav-2601&layout=compact&hide_border=true)
 
 ### Language-specific Stats
