@@ -24,23 +24,43 @@ I am pursuing my undergraduate engineering degree in Computing in Software Devel
 - Build a Computer Vision app using Azure Cognitive Services by Coursera
 - Design a Mobile App using Moqups from Coursera
 - First Prize in Hackathon by N-TUTOR
-- [You can find all my certificates here.](#)
+- [](#)
 
 ## 🛠️ Projects
-### Full-Stack Project
-- **E-commerce Project**: A MERN stack E-Commerce Application with features like user authentication, product catalog, shopping cart, checkout process, responsive design, and admin panel.
 
-### React.js Project
-- **DublinTourist Project**: A React.js application that allows users to filter tourist places based on various criteria.
+### JavaScript
+- **[DublinTourist](https://github.com/Keshav-2601/DublinTourist)**
+- **[E-commerce](https://github.com/Keshav-2601/E-commerce)**
+- **[Website_Home1](https://github.com/Keshav-2601/Website_Home1)**
 
-### Laravel Project
-- **Super Car Website**: A supercar-focused platform developed with PHP and CSS (including Tailwind CSS). It offers features such as article reading and posting, user registration, login, and profile updates.
+### JavaScript / HTML / CSS
+- **[Green-Sapper-Frontend](https://github.com/Keshav-2601/Green-Sapper-Frontend)**
+- **[Project_oops_activity_tracker](https://github.com/Keshav-2601/Project_oops_activity_tracker)**
 
-### C++ Project
-- **The Bug-Life Project**: A game developed in C++ that offers a comprehensive simulation of bug life, providing an engaging and interactive gaming experience.
+### JavaScript / CSS
+- **[Keshav_Google_Map_React](https://github.com/Keshav-2601/Keshav_Google_Map_React)**
 
-### JAVA Project
-- **Activity-Tracker**: An Object-Oriented Programming (OOP) based activity tracker application with features including CSV file upload, activity view, activity filter, activity search, performance statistics, and additional calculations.
+### JavaScript / HTML / CSS / React / Node.js
+- **[DublinTourist](https://github.com/Keshav-2601/DublinTourist)**
+
+### Java
+- **[ca5oops](https://github.com/Keshav-2601/ca5oops)**
+- **[Comparable-Comparators-in-java](https://github.com/Keshav-2601/Comparable-Comparators-in-java)**
+- **[Project_oops_activity_tracker](https://github.com/Keshav-2601/Project_oops_activity_tracker)**
+- **[D00253307serversideProject](https://github.com/Keshav-2601/D00253307serversideProject)**
+
+### C++
+- **[C-Project](https://github.com/Keshav-2601/C-Project)**
+
+### Laravel / PHP / Blade
+- **[Green-Sapper-Backend](https://github.com/Keshav-2601/Green-Sapper-Backend)**
+- **[Ca3Serversidegrp](https://github.com/Keshav-2601/Ca3Serversidegrp)**
+
+### MySQL
+- **[DatabaseProject](https://github.com/Keshav-2601/DatabaseProject)**
+
+### No Language Specified
+- **[All_Certificates](https://github.com/Keshav-2601/All_Certificates)**
 
 ## 🎓 Education
 - **BSc. (Hons) Computing Software Development**, Dundalk Institute of Technology (DKIT), Dundalk, Ireland (Currently in Second Year)
@@ -53,6 +73,39 @@ I am pursuing my undergraduate engineering degree in Computing in Software Devel
 ## 📊 GitHub Stats
 ![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keshav-2601&show_icons=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav-2601&layout=compact&hide_border=true)
+
+### Language-specific Stats
+#### JavaScript
+![DublinTourist](https://github-readme-stats.vercel.app/api/pin/?username=Keshav-2601&repo=DublinTourist)
+![E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=Keshav-2601&repo=E-commerce)
+![Website_Home1](https://github-readme-stats.vercel.app/api/pin/?username=Keshav-2601&repo=Website_Home1)
+
+#### JavaScript / HTML / CSS
+![Green-Sapper-Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Keshav-2601&repo=Green-Sapper-Frontend)
+![Green-Sapper-Backend](https://github-readme-stats.vercel.app/api/pin/?username=Keshav-2601&repo=Green-Sapper-Backend)
+#### JavaScript / CSS
+![Keshav_Google_Map_React](https://github-readme-stats.vercel.app/api/pin/?username=Keshav-2601&repo=Keshav_Google_Map_React)
+
+#### JavaScript / HTML / CSS / React / Node.js
+![DublinTourist](https://github-readme-stats.vercel.app/api/pin/?username=Keshav-2601&repo=DublinTourist)
+
+#### Java
+![ca5oops](https://github-readme-stats.vercel.app/api/pin/?username=Keshav-2601&repo=ca5oops)
+![Comparable-Comparators-in-java](https://github-readme-stats.vercel.app/api/pin/?username=Keshav-2601&repo=Comparable-Comparators-in-java)
+![Project_oops_activity_tracker](https://github-readme-stats.vercel.app/api/pin/?username=Keshav-2601&repo=Project_oops_activity_tracker)
+
+#### C++
+![C-Project](https://github-readme-stats.vercel.app/api/pin/?username=Keshav-2601&repo=C-Project)
+
+#### Laravel / PHP / Blade
+![D00253307serversideProject](https://github-readme-stats.vercel.app/api/pin/?username=Keshav-2601&repo=D00253307serversideProject)
+![Ca3Serversidegrp](https://github-readme-stats.vercel.app/api/pin/?username=Keshav-2601&repo=Ca3Serversidegrp)
+
+#### MySQL
+![DatabaseProject](https://github-readme-stats.vercel.app/api/pin/?username=Keshav-2601&repo=DatabaseProject)
+
+#### No Language Specified
+![All_Certificates](https://github-readme-stats.vercel.app/api/pin/?username=Keshav-2601&repo=All_Certificates)
 
 ## 📝 Blog Posts
 <!-- BLOG-POST-LIST:START -->
